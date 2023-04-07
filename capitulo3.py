@@ -41,4 +41,4 @@ def drawColumn(columns, char_one, char_two):
 justifyRight("Atillio")
 justifyRight("Is very awesome")
 drawGrid(6,6)
-drawGrid(21,27)
+drawGrid(24,28)
